@@ -1,0 +1,4 @@
+-Preguntar si els missings s'han d'imputar després de particionar dataset 
+(també outliers)
+
+-
