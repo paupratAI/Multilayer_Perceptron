@@ -1,4 +1,4 @@
 -Preguntar si els missings s'han d'imputar després de particionar dataset 
 (també outliers)
 
--
+-Què s'ha de fer en el segon apartat del punt 3?
