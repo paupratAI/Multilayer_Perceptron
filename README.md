@@ -20,7 +20,3 @@ The selected multilayer perceptron model demonstrated superior predictive capabi
 
 ## Date
 - May 2024
-
-## Useful Links
-- [Polytechnic University of Catalonia](https://www.upc.edu)
-- [Barcelona School of Informatics](https://www.fib.upc.edu)
